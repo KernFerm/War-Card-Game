@@ -38,5 +38,25 @@ for %%F in (war.py generate_key.py decrypt_results.py) do (
     )
 )
 
-REM Start the game
+REM Menu to choose version
+echo.
+echo Card Game War Launcher
+echo ======================
+echo 1. Play GUI version
+echo 2. Play Console version
+echo 3. Exit
+set /p choice="Select an option (1-3): "
+if "%choice%"=="1" (
+    python war.py --gui
+    goto :eof
+)
+if "%choice%"=="2" (
+    python war.py
+    goto :eof
+)
+if "%choice%"=="3" (
+    exit /b 0
+)
+echo Invalid choice. Exiting.
+exit /b 1
 python war.py
