@@ -11,10 +11,6 @@
 Welcome to the Card Game War project! This project provides a secure, cross-platform implementation of the classic card game "War" with a graphical interface and encrypted results storage.
 
 
-## � Pyarmor Protection
-
-This project uses [Pyarmor](https://pyarmor.readthedocs.io/) to obfuscate and protect Python source code from reverse engineering.
-
 **How it works:**
 - Key files (`war.py`, etc.) are obfuscated and require the `pyarmor_runtime_007668` runtime folder to run.
 - The runtime is included in the project and loaded automatically.
@@ -23,7 +19,6 @@ This project uses [Pyarmor](https://pyarmor.readthedocs.io/) to obfuscate and pr
 **How to use:**
 - Run scripts as usual (e.g., `python war.py`).
 - Do not delete or move the `pyarmor_runtime_007668` folder.
-- If you re-obfuscate, update the runtime folder as needed.
 
 
 | File                | Purpose                                                                 |
