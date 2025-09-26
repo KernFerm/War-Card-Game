@@ -63,10 +63,11 @@ Decrypt and view results:
 python decrypt_results.py
 ```
 
+
 ## 🖥️ Windows Quick Start
 Double-click `run.bat` to:
 - Generate the key (if missing)
-- Launch the game
+- Choose to play the GUI or Console version from a menu
 
 ## 🏁 Cross-Platform Support
 All `.py` files use `os` and `sys` for path handling and are compatible with Windows, macOS, and Linux. No platform-specific code is used.
@@ -85,9 +86,6 @@ python war.py
 ## 📝 Notes
 - Make sure `win-results.key` and `win-results.json` are in the same directory as the scripts.
 - For Linux/macOS, use the same commands in your terminal.
-
-## 💬 Contact
-For questions, see the `website/` folder for contact info and more!
 
 ---
 Made with ❤️ by the BubblesTheDev!
