@@ -31,12 +31,44 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
 
 ## 🚀 How to Use
 
+
 ### 1️⃣ Setup
-1. Ensure you have Python 3.8+ installed.
+1. **Install Python 3.8+**
+
+#### 🪟 Windows
+- Download Python from the official website: [python.org/downloads](https://www.python.org/downloads/windows/)
+- Run the installer and check "Add Python to PATH" during setup.
+- Verify installation:
+    ```powershell
+    python --version
+    ```
+
+
+#### 🐧 Linux
+- Most Linux systems already come with Python pre-installed. You can use the default version that comes with your distribution.
+- To check your Python version:
+    ```bash
+    python3 --version
+    ```
+- If you need to install or upgrade Python, use your package manager (example for Ubuntu/Debian):
+    ```bash
+    sudo apt update
+    sudo apt install python3 python3-pip
+    python3 --version
+    ```
+
+#### 🍎 macOS
+- Download Python from [python.org/downloads](https://www.python.org/downloads/macos/)
+- Or use Homebrew:
+    ```bash
+    brew install python
+    python3 --version
+    ```
+
 2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 ### 2️⃣ Generate Encryption Key
 Run the key generator:
