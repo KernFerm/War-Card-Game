@@ -104,17 +104,6 @@ Double-click `run.bat` to:
 ## 🏁 Cross-Platform Support
 All `.py` files use `os` and `sys` for path handling and are compatible with Windows, macOS, and Linux. No platform-specific code is used.
 
-## 🛠️ Creating `run.bat`
-```bat
-@echo off
-REM Generate key if missing
-if not exist win-results.key (
-    python generate_key.py
-)
-REM Start the game
-python war.py
-```
-
 ## 📝 Notes
 - Make sure `win-results.key` and `win-results.json` are in the same directory as the scripts.
 - For Linux/macOS, use the same commands in your terminal.
