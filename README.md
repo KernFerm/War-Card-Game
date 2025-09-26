@@ -90,5 +90,5 @@ python war.py
 For questions, see the `website/` folder for contact info and more!
 
 ---
-Made with ❤️ by the Card Game War team!
+Made with ❤️ by the BubblesTheDev!
 
