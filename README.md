@@ -70,7 +70,9 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
      ```bash
      pip install -r requirements.txt
      ```
-
+---
+# https://github.com/KernFerm/War-Card-Game/releases/tag/python3119amd64arm64
+---
 ### 2️⃣ Generate Encryption Key
 Run the key generator:
 ```bash
