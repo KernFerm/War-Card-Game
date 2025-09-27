@@ -46,6 +46,7 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
 
 #### 🐧 Linux
 - Most Linux systems already come with Python pre-installed. You can use the default version that comes with your distribution.
+- If you are having issues download the Python Version `3.11.9`.
 - To check your Python version:
     ```bash
     python3 --version
