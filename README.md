@@ -33,7 +33,7 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
 
 
 ### 1️⃣ Setup
-1. **Install Python 3.8+**
+1. **Install Python 3.11.9**
 
 #### 🪟 Windows
 - Download Python from the official website: [python.org/downloads](https://www.python.org/downloads/windows/)
