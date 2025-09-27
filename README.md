@@ -34,6 +34,9 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
 
 ### 1️⃣ Setup
 1. **Install Python 3.11.9**
+---
+# [Python 3.11.9 arm64 & amd64](https://github.com/KernFerm/War-Card-Game/releases/tag/python3119amd64arm64)
+---
 
 #### 🪟 Windows
 - Download Python from the official website: [python.org/downloads](https://www.python.org/downloads/windows/)
@@ -70,9 +73,7 @@ Welcome to the Card Game War project! This project provides a secure, cross-plat
      ```bash
      pip install -r requirements.txt
      ```
----
-# https://github.com/KernFerm/War-Card-Game/releases/tag/python3119amd64arm64
----
+
 ### 2️⃣ Generate Encryption Key
 Run the key generator:
 ```bash
