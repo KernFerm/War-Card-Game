@@ -1,0 +1,1 @@
+- will upload the unpyarmored version for linux so they will be able to run it on any python version, same with mac os. 
