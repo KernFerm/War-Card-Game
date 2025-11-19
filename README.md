@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11.9-blue?logo=python)
 ![Windows](https://img.shields.io/badge/Windows-Supported-blue?logo=windows)
-![Cross-Platform](https://img.shields.io/badge/Cross--Platform-Yes-green?logo=linux)
+![Cross-Platform](https://img.shields.io/badge/Cross--Platform-ComingSoon-green?logo=linux)
 ![Encryption](https://img.shields.io/badge/Security-Fernet-green?logo=lock)
 ![Pyarmor](https://img.shields.io/badge/Obfuscated-Pyarmor%209.1.9-orange?logo=python)
 
